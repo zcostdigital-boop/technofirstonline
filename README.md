@@ -1,22 +1,14 @@
 # TechnoFirstOnline
 
-TechnoFirstOnline provides free online SEO tools, PDF tools, image tools and web utilities.
+Free online SEO, PDF, Image and Web Tools.
 
 ## Website
-
 https://technofirstonline.com/
 
-## Popular Tools
+## Categories
+- https://technofirstonline.com/category/seo-tools/
+- https://technofirstonline.com/category/pdf-tools/
+- https://technofirstonline.com/category/image-tools/
+- https://technofirstonline.com/blog/
 
-- https://technofirstonline.com/keyword-density-checker/
-- https://technofirstonline.com/password-generator/
-- https://technofirstonline.com/slug-generator/
-- https://technofirstonline.com/meta-tag-generator/
-- https://technofirstonline.com/image-compressor/
-- https://technofirstonline.com/pdf-tools/
-
-## Blog
-
-https://technofirstonline.com/blog/
-
-Free online tools that work directly in your browser.
+Browser based. Free. Fast.
